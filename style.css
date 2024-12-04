@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#block {
+    width: 250px;
+    height: 250px;
+    border-width: 15px;
+    border-color: red  orangered yellow green;
+    border-style: dashed dotted;
+    margin: 15px;
+    border-radius: 45px 26% 120px;
+    padding: 20px 0 0 30px;
+    box-sizing: border-box;
+}
+.red {
+    color: red;
+}
+.orange {
+    color: orangered;
+}
+.yellow {
+    color: yellow;
+}
+.green {
+    color: green;
+}
+#zzz {
+    width: 250px;
+    height: 250px;
+    border-width: 15px;
+    border-color: green yellow orangered red;
+    border-style: dashed dotted;
+    margin: 15px;
+    border-radius: 45px 26% 120px;
+    padding: 20px 0 0 30px;
+    box-sizing: border-box;
+}
+ul{
+    list-style-type: square;
+}
+.green {
+    color: green;
+}
+.yellow {
+    color: yellow;
+}
+.orange{
+    color: orangered;
+}
+.red{
+    color: red;
+}
+#www {
+width: 250px;
+height: 250px;
+border-width: 5px;
+border-color: green yellow orangered red;
+border-style: dashed ;
+border-radius: 45px 26% 120px;
+padding: 20px 0 0 30px;
+box-sizing: border-box;
+}
+.green{
+    color: green;
+}
+.yellow {
+    color: yellow;
+}
+.orange{
+    color: orangered;
+}
+.red{
+    color: red;
+}

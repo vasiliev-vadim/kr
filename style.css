@@ -1,6 +1,8 @@
 *{
     margin: 0;
     padding: 0;
+    background-color: blueviolet
+    ;
 }
 #block {
     width: 250px;
@@ -9,10 +11,11 @@
     border-color: red  orangered yellow green;
     border-style: dashed dotted;
     margin: 15px;
-    border-radius: 45px 26% 120px;
+    border-radius: 12px 120px;
     padding: 20px 0 0 30px;
     box-sizing: border-box;
 }
+
 .red {
     color: red;
 }
@@ -32,8 +35,8 @@
     border-color: green yellow orangered red;
     border-style: dashed dotted;
     margin: 15px;
-    border-radius: 45px 26% 120px;
-    padding: 20px 0 0 30px;
+    border-radius: 120px 12px;
+    padding: 25px 0 0 30px;
     box-sizing: border-box;
 }
 ul{
@@ -57,9 +60,78 @@ height: 250px;
 border-width: 5px;
 border-color: green yellow orangered red;
 border-style: dashed ;
-border-radius: 45px 26% 120px;
+border-radius: 12px 120px;
 padding: 20px 0 0 30px;
 box-sizing: border-box;
+}
+.green{
+    color: green;
+}
+.yellow {
+    color: yellow;
+}
+.orange{
+    color: orangered;
+}
+.red{
+    color: red;
+}
+#zzz {
+    width: 250px;
+    height: 250px;
+    border-width: 15px;
+    border-color: green yellow orangered red;
+    border-style: dotted;
+    margin: 20px;
+    border-radius: 120px 12px;
+    padding: 25px 0 0 30px;
+    box-sizing: border-box;
+}
+.green{
+    color: green;
+}
+.yellow {
+    color: yellow;
+}
+.orange{
+    color: orangered;
+}
+.red{
+    color: red;
+}
+#block {
+    width: 250px;
+    height: 250px;
+    border-width: 15px;
+    border-color: red  orangered yellow green;
+    border-style: dashed dotted;
+    margin: 15px;
+    border-radius: 12px 120px;
+    padding: 20px 0 0 30px;
+    box-sizing: border-box;
+}
+.red {
+    color: red;
+}
+.orange {
+    color: orangered;
+}
+.yellow {
+    color: yellow;
+}
+.green {
+    color: green;
+}
+#zzz {
+    width: 250px;
+    height: 250px;
+    border-width: 15px;
+    border-color: green yellow orangered red;
+    border-style: dotted;
+    margin: 20px;
+    border-radius: 120px 12px;
+    padding: 25px 0 0 30px;
+    box-sizing: border-box;
 }
 .green{
     color: green;
